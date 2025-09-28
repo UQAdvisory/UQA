@@ -21,8 +21,6 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
-      section: contact
 
 en-001: #English (World)
   <<: *DEFAULT_EN
