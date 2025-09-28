@@ -23,14 +23,3 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-
-en-001: #English (World)
-  <<: *DEFAULT_EN
-en-150: #English (Europe)
-  <<: *DEFAULT_EN
-en-GB: #English (United Kingdom)
-  <<: *DEFAULT_EN
-en-US: #English (United States)
-  <<: *DEFAULT_EN
